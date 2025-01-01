@@ -1,4 +1,4 @@
-# Women Safety System
+# Women Safety System (Resue Her)
 
 ## Overview
 The **Women Safety System** is an IoT-based safety solution designed to ensure personal safety. This system integrates various hardware components like **IMU sensors**, **GPS**, **heart rate sensors**, and **temperature sensors**, along with software to trigger emergency alerts and send real-time location and health data.
@@ -22,7 +22,7 @@ The **Women Safety System** is an IoT-based safety solution designed to ensure p
 - **Arduino IDE**: Used for writing and uploading the code to NodeMCU (ESP8266).
 - **Blynk Platform**: Used to communicate real-time data and send alerts.
 
-## Block Diagram
+## Block Diagram (Note: Please refer the Report PDF for Block Diagram)
 The system consists of:
 1. **SOS Push Button**
 2. **Heart Rate Sensor**
